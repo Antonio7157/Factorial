@@ -7,11 +7,12 @@ body{
     position: absolute;
     width: 200px;
     height: 200px;
-    border-radius: 15px;
+    border-radius: 15px rgb(52, 52, 107);
     display: block;
     gap: 10px;
     top: 30%;
     left: 40%;
+
     background-color: linear-gradient(rgb(168, 168, 214),rgb(82, 82, 46),rgb(68, 35, 35));
 }
 
